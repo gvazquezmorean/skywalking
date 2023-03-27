@@ -8,4 +8,3 @@ skywalking-ui/**
 test/e2e-v2/cases/**
 test/e2e-v2/java-test-service/**
 """
-
